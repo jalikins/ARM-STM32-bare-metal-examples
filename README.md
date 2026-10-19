@@ -1,5 +1,4 @@
-```markdown
-# Manual CLI Compilation & Flashing Guide (No Build System)
+# Manual CLI Compilation No Build System
 
 ---
 
@@ -118,7 +117,8 @@ st-flash --reset write build_cli/blink.bin 0x08000000
 ```
 
 
-Here are some resources
+Here are some resources I used
 
 https://kleinembedded.com/stm32-without-cubeide-part-1-the-bare-necessities/
+
 https://vivonomicon.com/2018/04/02/bare-metal-stm32-programming-part-1-hello-arm/

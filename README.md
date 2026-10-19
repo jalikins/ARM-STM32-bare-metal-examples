@@ -40,7 +40,7 @@ mkdir -p build_cli
 
 ### Step A: Compile & Link into an `.elf` Executable
 
-Here is template to run code from inside `01_STM32_bare_metal_blink/`:
+Here is template to run code from inside `01_STM32_bare_metal_blink/`, you need to fill in the `...`s in the command (hint if you read farther that might help or you can look them up)
 
 ```bash
 arm-none-eabi-gcc \
